@@ -1,6 +1,6 @@
-# HexBinDecConvertor
+# PI-AF-HexBinDexDataReference
 
-The HexBinDecConvertor Custom Data Reference (CDR) is a small data reference which help you to convert data from Hex / Bin or Dec format to an Hex / Bin or Dec format.
+The PI-AF-HexBinDexDataReference is a custom data reference (CDR) which help you to convert data from Hex / Bin or Dec format to an Hex / Bin or Dec format.
 
 This repository contains the source files to build this CDR.
 
